@@ -61,7 +61,6 @@ button:hover {
 
 .navbar__flex a:hover {
   color: #fff;
-  font-weight: 700;
   text-shadow: 2px 0 var(--main-color), -2px 0 var(--main-color), 0 2px var(--main-color), 0 -2px var(--main-color),
     1px 1px var(--main-color), -1px -1px var(--main-color), 1px -1px var(--main-color), -1px 1px var(--main-color);
 }
